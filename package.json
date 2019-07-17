@@ -1,0 +1,27 @@
+{
+  "name": "gkaragkiaouris.tech",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "author": "George Karagkiaouris",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "now-build": "next build && next export -o dist"
+  },
+  "dependencies": {
+    "@types/react-icons": "^3.0.0",
+    "next": "^8.1.1-canary.43",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-icons": "^3.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.4",
+    "@types/react": "^16.8.19",
+    "@types/react-dom": "^16.8.4",
+    "typescript": "^3.5.1"
+  }
+}
