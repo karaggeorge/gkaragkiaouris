@@ -119,6 +119,7 @@ const Page: NextPage = () => (
 
           .social a {
             text-decoration: none;
+            min-height: 48px;
           }
 
           .item {
