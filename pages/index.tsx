@@ -78,6 +78,7 @@ const Page: NextPage = () => (
 
           a {
             color: #4a4a4a;
+            white-space: nowrap;
           }
 
           p {
