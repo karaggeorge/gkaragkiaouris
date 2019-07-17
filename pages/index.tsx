@@ -159,6 +159,10 @@ const Page: NextPage = () => (
             font-size: 1rem;
             letter-spacing: 0.8px;
           }
+
+          * {
+            box-sizing: border-box;
+          }
         `
       }
     </style>
