@@ -14,12 +14,12 @@ const Page: NextPage = () => (
     <section className="profile">
       <img src="/static/profile.png" alt="profile picture"/>
       <h1>George Karagkiaouris</h1>
-      <h2>Senior Engineer at <a href="http://www.northhighland.com/" target="_blank" rel="noopener">North Highland</a></h2>
+      <h2>Senior Android Engineer at <a href="http://www.macys.com/" target="_blank" rel="noopener">Macy's</a></h2>
       <div className="location"><div className="icon"><FaMapMarkerAlt/></div>Atlanta, GA 🇺🇸</div>
       {/* <div className="email"><div className="icon"><FaEnvelope/></div>gkaragkiaouris2@gmail.com</div> */}
       <p>
-        Working as a full-stack Engineer using Node.js and React.js or Angular.
-        Previously worked as a full-stack web developer at <a href="https://patientwisdom.com/" target="_blank" rel="noopener">PatientWisdom</a>.
+        Working as a Mobile Engineer (Android) using Kotlin and Java.
+        Previously worked as a full-stack web developer using Node.js, React.js and Angular at <a href="https://www.northhighland.com/" target="_blank" rel="noopener">NorthHighland</a> and <a href="https://patientwisdom.com/" target="_blank" rel="noopener">PatientWisdom</a>.
         One of the maintainers of <a href="https://github.com/wulkano/kap" target="_blank" rel="noopener">Kap</a>.
       </p>
       <p>♥ Open Source</p>
