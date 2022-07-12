@@ -9,7 +9,7 @@ const Page: NextPage = () => (
 		  <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       <link rel="icon" type="image/x-icon" href="/static/favicon.ico" />
       <title>George Karagkiaouris</title>
-      <meta name="Description" content="Full-stack Engineer using Node.js and React.js or Angular"></meta>
+      <meta name="Description" content="Full-stack Engineer at Vercel"></meta>
     </Head>
     <section className="profile">
       <img src="/static/profile.png" alt="profile picture"/>
